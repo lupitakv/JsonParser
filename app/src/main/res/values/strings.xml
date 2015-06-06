@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">JsonParser</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="id">Clave animal</string>
+    <string name="nombre_comun">Nombre Comun</string>
+    <string name="nombre_cient">Nombre Cientifico</string>
+    <string name="habitat">Habitat</string>
+    <string name="caracteristicas">Caracteristicas</string>
+    <string name="title_activity_list_item">list_item</string>
+    <string name="title_activity_vista_individual">Lista</string>
+
+</resources>
